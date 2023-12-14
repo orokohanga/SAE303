@@ -1,0 +1,46 @@
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+body {
+    background: 
+      radial-gradient(farthest-side at -33.33% 50%,#0000 52%,#7f7f7f 54% 57%,#0000 59%) 0 calc(112px/2),
+      radial-gradient(farthest-side at 50% 133.33%,#0000 52%,#7f7f7f 54% 57%,#0000 59%) calc(112px/2) 0,
+      radial-gradient(farthest-side at 133.33% 50%,#0000 52%,#7f7f7f 54% 57%,#0000 59%),
+      radial-gradient(farthest-side at 50% -33.33%,#0000 52%,#7f7f7f 54% 57%,#0000 59%),
+      rgba(97, 97, 97, 0.71);
+background-size: calc(112px/4.667) 112px,112px calc(112px/4.667);
+
+    color:white;
+}
+
+canvas{
+    color: white;
+}
+
+.general {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap:3rem;
+    width: 75%;
+    height: 100%;
+}
+
+#dimensions {
+    height: 500px;
+}
+
+
+#slide {
+    height: 500px;
+}
+h1 {
+    margin: 0;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
