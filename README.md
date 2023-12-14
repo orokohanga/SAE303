@@ -1,4 +1,4 @@
-![image](https://github.com/orokohanga/SAE303/assets/129489837/f1ec455c-d557-48eb-bdf9-cceb76973462)# SAE 303 - Balcerek Corto
+# SAE 303 - Balcerek Corto
 
 Équipe : Corto Balcerek.
 
