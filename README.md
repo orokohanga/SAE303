@@ -1,4 +1,4 @@
-# SAE 303 - Balcerek Corto
+![image](https://github.com/orokohanga/SAE303/assets/129489837/f1ec455c-d557-48eb-bdf9-cceb76973462)# SAE 303 - Balcerek Corto
 
 Équipe : Corto Balcerek.
 
@@ -16,6 +16,6 @@ Page d'acceuil en colonne avec des graphiques avec des informations de plus en p
 
 ## Screenshots
 
-![SAE303 Image 1](https://imgur.com/a/XZFA79S)
+![SAE303 Image 1](https://i.imgur.com/uPfMFKp.png)
 
-![SAE303 Image 2]((https://imgur.com/3YZTfNe)g)
+![SAE303 Image 2](https://i.imgur.com/3YZTfNe.png)
